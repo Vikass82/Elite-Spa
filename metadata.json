@@ -1,0 +1,6 @@
+{
+  "name": "Elite DayNight OutCall Spa",
+  "description": "Professional health spa in Sanpada, Sector 8, Vashi, Navi Mumbai offering Full Body Massage, Thai Massage, and 24-hour wellness availability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
